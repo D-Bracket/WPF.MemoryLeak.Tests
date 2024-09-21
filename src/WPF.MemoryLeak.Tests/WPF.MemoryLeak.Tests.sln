@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.MemoryLeak.Tests.TabControl", "WPF.MemoryLeak.Tests.TabControl\WPF.MemoryLeak.Tests.TabControl.csproj", "{2F3CB3A6-99A5-4205-B5D6-AC43F113FE8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.MemoryLeak.Tests.TabControl.Simple", "WPF.MemoryLeak.Tests.TabControl.Simple\WPF.MemoryLeak.Tests.TabControl.Simple.csproj", "{EC2792A6-4C15-4C13-8573-B4122107787A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F3CB3A6-99A5-4205-B5D6-AC43F113FE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3CB3A6-99A5-4205-B5D6-AC43F113FE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3CB3A6-99A5-4205-B5D6-AC43F113FE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3CB3A6-99A5-4205-B5D6-AC43F113FE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2792A6-4C15-4C13-8573-B4122107787A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2792A6-4C15-4C13-8573-B4122107787A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2792A6-4C15-4C13-8573-B4122107787A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2792A6-4C15-4C13-8573-B4122107787A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {841CA3F1-0E0F-4D10-B051-0F299E2C164C}
+	EndGlobalSection
+EndGlobal
